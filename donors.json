@@ -1,0 +1,19 @@
+{
+  "links": {
+    "coffee": "https://www.buymeacoffee.com/TU_USUARIO",
+    "paypal": "https://paypal.me/TU_USUARIO",
+    "kofi": "https://ko-fi.com/TU_USUARIO"
+  },
+  "donors": [
+    {
+      "name": "Tu nombre o primer donante de prueba",
+      "amount": 10,
+      "currency": "USD",
+      "social": "@dgsoto",
+      "socialUrl": "https://github.com/dgsoto",
+      "link": "https://github.com/dgsoto",
+      "linkLabel": "GitHub",
+      "donatedAt": "2026-11-05T12:00:00.000Z"
+    }
+  ]
+}
