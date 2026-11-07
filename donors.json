@@ -1,4 +1,34 @@
 {
+  "options": [
+    {
+      "id": "coffee",
+      "icon": "☕",
+      "title": "Buy Me a Coffee",
+      "subtitle": "One coffee = one feature",
+      "url": "https://www.buymeacoffee.com/TU_USUARIO"
+    },
+    {
+      "id": "paypal",
+      "icon": "💙",
+      "title": "PayPal",
+      "subtitle": "Any amount helps",
+      "url": "https://paypal.me/TU_USUARIO"
+    },
+    {
+      "id": "kofi",
+      "icon": "🎀",
+      "title": "Ko-fi",
+      "subtitle": "Support the project",
+      "url": "https://ko-fi.com/TU_USUARIO"
+    },
+    {
+      "id": "bitcoin",
+      "icon": "₿",
+      "title": "Bitcoin",
+      "subtitle": "On-chain tip",
+      "url": "bitcoin:TU_DIRECCION_BTC"
+    }
+  ],
   "links": {
     "coffee": "https://www.buymeacoffee.com/TU_USUARIO",
     "paypal": "https://paypal.me/TU_USUARIO",
@@ -6,14 +36,14 @@
   },
   "donors": [
     {
-      "name": "Diego Gonzales Soto",
-      "amount": 10,
+      "name": "Ana Pérez",
+      "amount": 50,
       "currency": "USD",
-      "social": "@dgsoto",
-      "socialUrl": "https://github.com/dgsoto",
-      "link": "https://github.com/dgsoto",
-      "linkLabel": "GitHub",
-      "donatedAt": "2026-11-05T12:00:00.000Z"
+      "social": "@anapdev",
+      "socialUrl": "https://twitter.com/anapdev",
+      "link": "https://anap.dev",
+      "linkLabel": "anap.dev",
+      "donatedAt": "2026-11-01T12:00:00.000Z"
     }
   ]
 }
