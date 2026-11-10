@@ -12,14 +12,14 @@
       "icon": "💙",
       "title": "PayPal",
       "subtitle": "Any amount helps",
-      "url": "https://paypal.me/TU_USUARIO"
+      "url": "https://paypal.me/diegogonzalesqa"
     },
     {
       "id": "kofi",
       "icon": "🎀",
       "title": "Ko-fi",
       "subtitle": "Support the project",
-      "url": "https://ko-fi.com/TU_USUARIO"
+      "url": "https://ko-fi.com/diegogonzalessoto"
     },
     {
       "id": "bitcoin",
@@ -31,8 +31,8 @@
   ],
   "links": {
     "coffee": "https://www.buymeacoffee.com/TU_USUARIO",
-    "paypal": "https://paypal.me/TU_USUARIO",
-    "kofi": "https://ko-fi.com/TU_USUARIO"
+    "paypal": "https://paypal.me/DiegoGonzalesSoto",
+    "kofi": "https://ko-fi.com/diegogonzalessoto"
   },
   "donors": [
     {
